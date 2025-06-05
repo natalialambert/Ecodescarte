@@ -1,0 +1,270 @@
+.inicio {
+    background-color: #81a97a;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .inicio .div {
+    background-color: #81a97a;
+    height: 832px;
+    overflow: hidden;
+    position: relative;
+    width: 1280px;
+  }
+  
+  .inicio .overlap {
+    height: 490px;
+    left: -418px;
+    position: absolute;
+    top: 0;
+    width: 1698px;
+  }
+  
+  .inicio .macbook-air {
+    background-color: #81a97a;
+    height: 91px;
+    left: 0;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 1698px;
+  }
+  
+  .inicio .navbar {
+    background-color: #faf7f0;
+    height: 83px;
+    left: 406px;
+    position: relative;
+    width: 1492px;
+  }
+  
+  .inicio .text-wrapper {
+    color: #01600f;
+    font-family: "Lato", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    left: 965px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 35px;
+    white-space: nowrap;
+    width: 89px;
+  }
+  
+  .inicio .text-wrapper-2 {
+    color: #01600f;
+    font-family: "Lato", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    left: 830px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 35px;
+    white-space: nowrap;
+    width: 94px;
+  }
+  
+  .inicio .text-wrapper-3 {
+    color: #01600f;
+    font-family: "Lato", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    left: 676px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 35px;
+    white-space: nowrap;
+    width: 112px;
+  }
+  
+  .inicio .text-wrapper-4 {
+    color: #01600f;
+    font-family: "Lato", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    left: 215px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 35px;
+    white-space: nowrap;
+    width: 130px;
+  }
+  
+  .inicio .magnifying-glass {
+    height: 24px;
+    left: 1214px;
+    object-fit: cover;
+    position: absolute;
+    top: 32px;
+    width: 24px;
+  }
+  
+  .inicio .whatsapp-image {
+    height: 66px;
+    left: 514px;
+    position: absolute;
+    top: 10px;
+    width: 95px;
+  }
+  
+  .inicio .image {
+    height: 407px;
+    left: 418px;
+    object-fit: cover;
+    position: absolute;
+    top: 83px;
+    width: 1280px;
+  }
+  
+  .inicio .p {
+    color: #faf7f0;
+    font-family: "Lato", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    left: 470px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 339px;
+    width: 420px;
+  }
+  
+  .inicio .text-wrapper-5 {
+    color: #faf7f0;
+    font-family: "Lato", Helvetica;
+    font-size: 36px;
+    font-weight: 700;
+    left: 472px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 238px;
+    width: 492px;
+  }
+  
+  .inicio .text-wrapper-6 {
+    color: #faf7f0;
+    font-family: "Lato", Helvetica;
+    font-size: 36px;
+    font-weight: 700;
+    left: 1647px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 281px;
+    white-space: nowrap;
+    width: 22px;
+  }
+  
+  .inicio .overlap-group {
+    background-color: #01600f;
+    height: 178px;
+    left: -6px;
+    position: absolute;
+    top: 490px;
+    width: 1286px;
+  }
+  
+  .inicio .text-wrapper-7 {
+    color: #ffffff;
+    font-family: "Lato", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    left: 550px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 20px;
+  }
+  
+  .inicio .image-wrapper {
+    background-color: #faf7f0;
+    border-radius: 30px;
+    height: 51px;
+    left: 73px;
+    position: absolute;
+    top: 85px;
+    width: 242px;
+  }
+  
+  .inicio .img {
+    height: 32px;
+    left: 24px;
+    object-fit: cover;
+    position: absolute;
+    top: 9px;
+    width: 32px;
+  }
+  
+  .inicio .img-wrapper {
+    background-image: url(https://c.animaapp.com/5mDmlfZW/img/rectangle-3.svg);
+    background-size: 100% 100%;
+    height: 51px;
+    left: 525px;
+    position: absolute;
+    top: 84px;
+    width: 242px;
+  }
+  
+  .inicio .image-2 {
+    height: 32px;
+    left: 14px;
+    object-fit: cover;
+    position: absolute;
+    top: 8px;
+    width: 32px;
+  }
+  
+  .inicio .overlap-2 {
+    background-image: url(https://c.animaapp.com/5mDmlfZW/img/rectangle-4.svg);
+    background-size: 100% 100%;
+    height: 51px;
+    left: 966px;
+    position: absolute;
+    top: 85px;
+    width: 242px;
+  }
+  
+  .inicio .text-wrapper-8 {
+    color: #01600f;
+    font-family: "Lato", Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    left: 57px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 11px;
+    width: 174px;
+  }
+  
+  .inicio .image-3 {
+    height: 32px;
+    left: 21px;
+    object-fit: cover;
+    position: absolute;
+    top: 7px;
+    width: 32px;
+  }
+  
+  .inicio .text-wrapper-9 {
+    color: #faf7f0;
+    font-family: "Lato", Helvetica;
+    font-size: 32px;
+    font-weight: 700;
+    left: 493px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 719px;
+    white-space: nowrap;
+    width: 293px;
+  }
+  
